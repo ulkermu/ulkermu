@@ -6,7 +6,7 @@
 - 📫 How to reach me: [muratulker93@gmail.com](mailto:muratulker93@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muratulker93/)
 
 #### Technologies I work with:
-HTML, CSS, JavaScript, TypeScript, React, Next.js
+HTML, SCSS, CSS, JavaScript, TypeScript, React, Next.js
 
 <!--
 **ulkermu/ulkermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
