@@ -8,6 +8,8 @@
 #### Technologies I work with:
 HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js
 
+https://github-readme-stats.vercel.app/api?username=ulkermu&count_private=true&show_icons=true&line_height=20
+
 <!--
 **ulkermu/ulkermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
