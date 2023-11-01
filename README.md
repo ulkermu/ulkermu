@@ -10,7 +10,6 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js
 
 <details>
   <summary>:zap: Github Stats:</summary>
-  <div style="margin-top: 20px;">Selam</div>
   <img align="left" alt="ulkermu's Github Stats" src="https://github-readme-stats-git-master-ulkermu.vercel.app/api?username=ulkermu&count_private=true&show_icons=true" />
 </details>
 
