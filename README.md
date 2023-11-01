@@ -8,7 +8,10 @@
 #### Technologies I work with:
 HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js
 
-
+<details>
+  <summary>:zap: Github Stats:</summary>
+  <img align="left" alt="ulkermu's Github Stats" src="github-readme-stats-git-master-ulkermu.vercel.app/api?username=ulkermu&count_private=true&show_icons=true&line_height=20" />
+</details>
 
 <!--
 **ulkermu/ulkermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
