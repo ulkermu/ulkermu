@@ -10,7 +10,7 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js
 
 <details>
   <summary>:zap: Github Stats:</summary>
-  <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ulkermu&theme=nord" alt="ferhatmete" />
+  <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ulkermu&theme=nord" alt="muratulker" />
 </details>
 
 <!--
